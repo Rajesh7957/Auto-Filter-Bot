@@ -1,6 +1,14 @@
 class script(object):
-    START_TXT = """<b>​​​ʜɪɪ {} 👋, 
-ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴇᴅɪᴀ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇᴅ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ. ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ .</b>"""
+    START_TXT = """<b>✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {}, ✨  
+  
+I'm your badass movie-slinging bot 🍿  
+⚡ Here to fetch the latest movies and series like a champ!  
+  
+📥 Fast ⚡ Reliable ⚡ Unlimited  
+Sit back and let the binge begin.  
+  
+👑 Powered by @KRxFILMS  
+(The real MVPs behind this magic.)</b>"""
 
     FEATURES_TXT = """<b>ʜᴇʀᴇ ɪꜱ ᴀʟʟ ᴍʏ ꜰᴜɴᴛɪᴏɴꜱ.</b>"""
 
