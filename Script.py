@@ -351,6 +351,12 @@ Requested by : {message.from_user.mention}</b>"""
 • /reset_group - ʀᴇꜱᴇᴛ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ.
 • /details - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ."""    
 
-    PAGE_TXT = """ᴡʜʏ ᴀʀᴇ ʏᴏᴜ ꜱᴏ ᴄᴜʀɪᴏᴜꜱ ⁉️"""    
+    PAGE_TXT = """👀 𝙎𝙤 𝙚𝙖𝙜𝙚𝙧 𝙩𝙤 𝙠𝙣𝙤𝙬, 𝙖𝙧𝙚𝙣'𝙩 𝙮𝙤𝙪?"""    
    
-    SOURCE_TXT = """<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ :</b> 👇\nThis Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited."""
+    SOURCE_TXT = """<b>🚫 SOURCE NOT AVAILABLE</b>
+
+This bot is built with privately maintained code.  
+It is <b>not open-source</b> and cannot be shared or sold.
+
+Please enjoy the service — and respect the limits.
+"""
